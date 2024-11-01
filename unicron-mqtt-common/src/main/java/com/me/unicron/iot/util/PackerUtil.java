@@ -8,7 +8,6 @@ import net.logstash.logback.encoder.org.apache.commons.lang.math.NumberUtils;
 
 public class PackerUtil {
 
-	// http://blog.csdn.net/thanklife/article/details/17002641
 	//byte数组转成long 
     public static long byteToLong(byte[] b) { 
         long s = 0; 
